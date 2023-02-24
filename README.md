@@ -12,4 +12,5 @@ The app runs in browser. The API key is needed.
 ![Capture](https://user-images.githubusercontent.com/112564483/221300309-28848ace-8972-4eca-9093-0ddeb724dbe9.JPG)
 
 
-## Link to recording
+## Link to deployment
+[Weather_app](https://mi-str.github.io/Weather_app/)
